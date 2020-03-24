@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RestAssuredSuite">
+<listeners>
+      <listener class-name="com.io.qa.extentReports.ExtentReporterNG"/>
+      
+  </listeners>
+  <test thread-count="5" name="RestAssuredTest">
+    <classes>
+      <class name="com.io.qa.testcases.GetListOfUsersTest"/>
+      <class name="com.io.qa.testcases.CreateUserTest"/>
+       <class name="com.io.qa.testcases.UpdateUserTest"/>
+       <class name="com.io.qa.testcases.DeleteUserTest"/>
+    </classes>
+  </test> <!-- RestAssuredTest -->
+</suite> <!-- RestAssuredSuite -->

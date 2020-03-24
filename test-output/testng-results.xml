@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestAssuredSuite" duration-ms="11737" started-at="2020-02-07T08:39:45 IST" finished-at="2020-02-07T08:39:56 IST">
+    <groups>
+    </groups>
+    <test name="RestAssuredTest" duration-ms="11737" started-at="2020-02-07T08:39:45 IST" finished-at="2020-02-07T08:39:56 IST">
+      <class name="com.io.qa.testcases.GetListOfUsersTest">
+        <test-method status="PASS" signature="getListOfUsersTest()[pri:0, instance:com.io.qa.testcases.GetListOfUsersTest@4abdb505]" name="getListOfUsersTest" duration-ms="8308" started-at="2020-02-07T08:39:45 IST" finished-at="2020-02-07T08:39:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsersTest -->
+      </class> <!-- com.io.qa.testcases.GetListOfUsersTest -->
+      <class name="com.io.qa.testcases.CreateUserTest">
+        <test-method status="PASS" signature="createUserTest()[pri:0, instance:com.io.qa.testcases.CreateUserTest@7ce6a65d]" name="createUserTest" duration-ms="3278" started-at="2020-02-07T08:39:53 IST" finished-at="2020-02-07T08:39:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+      </class> <!-- com.io.qa.testcases.CreateUserTest -->
+    </test> <!-- RestAssuredTest -->
+  </suite> <!-- RestAssuredSuite -->
+</testng-results>

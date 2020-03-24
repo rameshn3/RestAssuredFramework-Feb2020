@@ -1,0 +1,6 @@
+com\io\qa\testcases\GetListOfUsersTest.class
+com\io\qa\base\TestBase.class
+com\io\qa\testcases\CreateUserTest.class
+com\io\qa\testcases\DeleteUserTest.class
+com\io\qa\extentReports\ExtentReporterNG.class
+com\io\qa\testcases\UpdateUserTest.class

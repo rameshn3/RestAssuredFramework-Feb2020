@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestAssuredSuite" duration-ms="10830" started-at="2020-02-08T08:40:30 IST" finished-at="2020-02-08T08:40:41 IST">
+    <groups>
+    </groups>
+    <test name="RestAssuredTest" duration-ms="10830" started-at="2020-02-08T08:40:30 IST" finished-at="2020-02-08T08:40:41 IST">
+      <class name="com.io.qa.testcases.UpdateUserTest">
+        <test-method status="PASS" signature="updateUserTest()[pri:0, instance:com.io.qa.testcases.UpdateUserTest@2b2948e2]" name="updateUserTest" duration-ms="864" started-at="2020-02-08T08:40:39 IST" finished-at="2020-02-08T08:40:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserTest -->
+      </class> <!-- com.io.qa.testcases.UpdateUserTest -->
+      <class name="com.io.qa.testcases.GetListOfUsersTest">
+        <test-method status="PASS" signature="getListOfUsersTest()[pri:0, instance:com.io.qa.testcases.GetListOfUsersTest@210366b4]" name="getListOfUsersTest" duration-ms="6823" started-at="2020-02-08T08:40:30 IST" finished-at="2020-02-08T08:40:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfUsersTest -->
+      </class> <!-- com.io.qa.testcases.GetListOfUsersTest -->
+      <class name="com.io.qa.testcases.DeleteUserTest">
+        <test-method status="PASS" signature="deleteUserTest()[pri:0, instance:com.io.qa.testcases.DeleteUserTest@6ddf90b0]" name="deleteUserTest" duration-ms="851" started-at="2020-02-08T08:40:40 IST" finished-at="2020-02-08T08:40:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserTest -->
+      </class> <!-- com.io.qa.testcases.DeleteUserTest -->
+      <class name="com.io.qa.testcases.CreateUserTest">
+        <test-method status="PASS" signature="createUserTest()[pri:0, instance:com.io.qa.testcases.CreateUserTest@eec5a4a]" name="createUserTest" duration-ms="2199" started-at="2020-02-08T08:40:37 IST" finished-at="2020-02-08T08:40:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+      </class> <!-- com.io.qa.testcases.CreateUserTest -->
+    </test> <!-- RestAssuredTest -->
+  </suite> <!-- RestAssuredSuite -->
+</testng-results>

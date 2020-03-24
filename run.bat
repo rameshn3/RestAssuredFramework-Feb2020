@@ -1,0 +1,2 @@
+cd D:\eclipseworkspaceAug2018\RestAssuredAPIAutomation-Feb62020
+mvn clean install
